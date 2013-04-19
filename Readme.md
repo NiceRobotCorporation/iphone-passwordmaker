@@ -6,7 +6,7 @@ I will restructure the Views in the next few days.
 
 # Installation
 
-You can install this app from the app store <a href="http://itunes.apple.com/de/app/passwordmaker-org-password/id359001896?mt=8">here</a>.
+You can install this app from the app store <a href="http://itunes.apple.com/app/passwordmaker-org-password/id359001896?mt=8">here</a>.
 
 # Note on Patches/Pull Requests
 
